@@ -1,6 +1,6 @@
-
 title: Lucas Quintela
-logo: /assets/img/AQUIVO
-description: label
+logo: /assets/img/quintela.png
+description: Minimal is a theme for GitHub Pages.
 show_downloads: true
-theme: jekyll-remote-theme
+google_analytics:
+theme: jekyll-theme-minimal
