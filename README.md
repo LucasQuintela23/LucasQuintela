@@ -15,12 +15,21 @@ Nos últimos anos, me aproximei da área de qualidade de Software por meio de pr
 
 Recentemente, finalizei uma especialização em Testes Ágeis, onde estudei metodologias e técnicas modernas de QA, incluindo:  
 
-- ✅ Ciclo de Vida de Testes  
-- 📝 Documentação de Testes  
-- 🔄 Testes de API  
-- 🧪 Regressão  
-- 🖥️ Testes Manuais e Unitários  
-- 🤖 Automação de Testes  
+- Ciclo de Vida de Testes 
+- IA generativa 
+- Documentação de Testes  
+- Testes de API  
+- Regressão  
+- Testes Manuais e Unitários  
+- Automação de Testes
+- Python
+- Selenium
+- Javascript
+- Postman
+- Git
+- Docker
+- K6
+ 
 
 Durante esse período, atuei como voluntário em **projetos internos e comunidades de tecnologia**, aplicando na prática os conceitos aprendidos.  
 
