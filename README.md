@@ -13,9 +13,9 @@
 - Execução de testes manuais.
 - Realização de testes de regressão, funcionais e exploratórios para identificar e reportar bugs.
 - Colaboração com desenvolvedores e times ágeis para garantir entregas de qualidade.
-- Uso de ferramentas: Mendix, Cyprees, Selenium, SQL, Postman, Git, GitHub, Grafana, Azure Devops e Slack.- Elaboração de casos de teste com base em requisitos funcionais e não funcionais. 
+- Elaboração de casos de teste com base em requisitos funcionais e não funcionais. 
 - Execução de testes manuais. 
-- Realização de testes de regressão, funcionais e exploratórios para identificar e reportar bugs. - Colaboração com desenvolvedores e times ágeis para garantir entregas de qualidade. 
+- Realização de testes de regressão, funcionais e exploratórios para identificar e reportar bugs.
 - Uso de ferramentas: Mendix, Cyprees, Selenium, SQL, Postman, Git, GitHub, Grafana, Azure Devops e Slack.
 
 
