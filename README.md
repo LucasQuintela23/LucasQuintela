@@ -8,7 +8,9 @@
 
 ## Experiências Profissionais
 
-#### Quality Assurance @ Centro de Estudos e Sistemas Avançados do Recife - CESAR ( Dezembro de 2024, atualmente)
+#### Quality Assurance | Centro de Estudos e Sistemas Avançados do Recife - CESAR 
+Dezembro de 2024 – Presente
+
 - Elaboração de casos de teste com base em requisitos funcionais e não funcionais.
 - Execução de testes manuais.
 - Realização de testes de regressão, funcionais e exploratórios para identificar e reportar bugs.
@@ -19,7 +21,8 @@
 - Uso de ferramentas: Mendix, Cyprees, Selenium, SQL, Postman, Git, GitHub, Grafana, Azure Devops e Slack.
 
 
-#### Software Engineer @ Centro de Estudos e Sistemas Avançados do Recife - CESAR ( Fevereiro de 2022 a Dezembro de 2024)
+#### Software Engineer | Centro de Estudos e Sistemas Avançados do Recife - CESAR
+Fevereiro de 2022 – Dezembro de 2024
 
 - Desenvolvimento e manutenção de aplicações utilizando linguagens com:, Python e JavaScript e Mendix.
 - Implementação de funcionalidades com base em metodologias ágeis (Scrum/Kanban).
@@ -29,7 +32,8 @@
 - Proeficiência em frameworks como React, Django, para entregar soluções modernas e responsivas.
 - Conhecimento em bancos de dados relacionais e não relacionais PostgreSQL, MongoDB, etc.
 
-#### Quality Assurance @ Profissionais de Suporte, Infraestrutura e Desenvolvimento - PROSID (Consultória)
+#### Quality Assurance | Profissionais de Suporte, Infraestrutura e Desenvolvimento - PROSID)
+
 
 - Participar da criação e execução de testes manuais e automatizados.
 - Testar funcionalidades, interfaces e fluxos de trabalho, seguindo roteiros de testes (test cases) previamente definidos.
@@ -52,45 +56,46 @@ Nos últimos anos, aprofundei meus conhecimentos em QA por meio de programas de 
 Minha abordagem visa não apenas a identificação e mitigação de bugs, mas também a prevenção de falhas, promovendo boas práticas de testes desde acompanhando todo o ciclo de software e projetos.
 
 ## Qualificações técnicas 
-Atualmente, trabalho com as ferramentas e metologia de QA utiliza diversas tecnologias para garantir a qualidade do software, como: 
+Atualmente, trabalho com as ferramentas e metologias de QA utiliza diversas tecnologias para garantir a qualidade do software, como: 
+
 #### Testes
-- Exploratórios
-- Unitários
-- Caixa-Branca
-- Caixa-Preta
-- Manuais
-- Regressão 
+ - Exploratórios
+ - Unitários
+ - Caixa-Branca
+ - Caixa-Preta
+ - Manuais
+ - Regressão 
 
 #### Linguagens 
 - Python
 - JavaScript
 
-#### Frameworks de automação de testes 
-- Cypress
-- Selenium
+#### Frameworks de automação de testes / IA generativa
+ - Cypress + ChatGPT
+ - Selenium + ChatGPT
 
-
-#### ferramentas de gerenciamento de testes
+#### Ferramentas de gerenciamento de testes 
  - Azure DevOps
  - Jira
  - Trello
- - Excel
+ - Excel/ Google Sheets
+ - Gitlab
  
- #### Integração Contínua 
+#### Integração Contínua 
  - Jenkins
  - Git
  - GitHub Actions 
  - Gitlab 
  - Docker
  
-##### monitoramento de qualidade com testes de API 
-- Postman
-- RestAssured
+#### Testes de API 
+ - Postman
+ - RestAssured
  
 
-##### Performance 
-- JMeter 
-- k6
+#### Performance 
+ - JMeter 
+ - k6
 
 
  
