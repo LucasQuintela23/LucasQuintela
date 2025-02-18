@@ -73,17 +73,19 @@ Atualmente, trabalho com as ferramentas e metologias de QA utiliza diversas tecn
 #### Frameworks de automação de testes
  - Cypress 
  - Selenium
+
 #### Criação de casos de testes/ IA generativa
  - Requirement-Based Testing + ChatGPT
  - Use Case Testing + ChatGPT
  - Analise de Valores Limites + ChatGPT
-#### Ferramentas de gerenciamento de testes 
+
+#### Ferramentas de gerenciamento de testes
  - Azure DevOps
  - Jira
  - Trello
  - Excel/ Google Sheets
  - Gitlab
- 
+
 #### Integração Contínua 
  - Jenkins
  - Git
