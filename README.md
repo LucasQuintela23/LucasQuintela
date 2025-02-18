@@ -1,4 +1,4 @@
-# Quality Assurance
+# Quality Assurance | Testes de Software | Automação
 
 ## Formações
 
