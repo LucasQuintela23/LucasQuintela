@@ -47,7 +47,7 @@ Fevereiro de 2022 – Dezembro de 2024
 
 
 
-## Sobre Min
+## Sobre Mim
 
 Possuo um perfil analítico e lógico, com habilidade para resolver desafios técnicos que exigem criatividade e pensamento estruturado. Minha experiência na área de Qualidade de Software envolve a análise criteriosa de regras de negócio, viabilizando que as entregas estejam alinhadas às expectativas dos stakeholders e atendam aos requisitos funcionais e não funcionais.
 
