@@ -1,4 +1,4 @@
-# Quality Assurance | Testes de Software | Automação
+# Software Development Engineer in Test (SDET) | Test Automation | CI/CD | Quality Engineering | Agile Testing | API & UI Testing
 
 ## Formações
 
