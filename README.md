@@ -4,12 +4,27 @@
 
 - Bacharel em Ciência da Computação, Universidade Anhanguera - 2021
 - Pós-Testes Ágeis - Centro de Estudos e Sistemas Avançados do Recife(CESAR)- 2024
-- Pós-graduação em Automação de Testes de Software - Em andamento
+- Mestrando em Engenharia de Software - Universidade Federal do Pampa - Em Endamento
+- Pós-graduação em Automação de Testes de Software - Faculdade VINCIT- Em andamento
 
 ## Experiências Profissionais
+#### Software Development Engineer in Test | LuizaLabs
+Março de 2025 - Presente momento
+- Valorizar a qualidade do software
+- Atuar como Suporte N3, identificando bugs, documentando, priorizando e corrigindo-os
+- Dar suporte ao Suporte N1 revisando procedimentos operacionais
+- Reduzir as operações operacionais às causas raiz
+- Trabalhar em tempo ágil participando de cerimônias
+- Saber lidar com os desafios no dia a dia
+- Entender as mudanças e aprender com elas no dia a dia
+- Criação de massa de dados para Testes SQL
+- Automação de testes
+- Reportar problemas de forma clara e detalhada
+- Criação e aprovação de stories
 
-#### Quality Assurance | Centro de Estudos e Sistemas Avançados do Recife - CESAR 
-Dezembro de 2024 – Presente
+
+#### Quality Assurance | Centro de Estudos e Sistemas Avançados do Recife - CESAR
+Dezembro de 2024 – Março de 2025
 
 - Elaboração de casos de teste com base em requisitos funcionais e não funcionais.
 - Execução de testes manuais.
